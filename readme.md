@@ -1,6 +1,6 @@
 ## Intro
 
-Simple script to dl images from xvideos.com
+Simple script to scrape images from front page of xvideos.com
 
 ## Install
 
